@@ -1,2 +1,2 @@
-# N_C-
+# N_Cpp
 Basic C++ code
